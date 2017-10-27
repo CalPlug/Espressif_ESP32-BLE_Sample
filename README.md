@@ -6,3 +6,4 @@ The arduino program also uses the dhp 11 library, you should download it before 
 The ADC port of esp32 are GPIO 32-39.
 Since the ESP32 has an inaccurate ADC, you may use lower resistance pull-up resistor. In my demo code, I'm using 1 KΩ resister for both DHP11 and the photocell.
 The Android BLE app is API23 (Android 6.0).
+
