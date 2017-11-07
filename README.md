@@ -1,5 +1,4 @@
-This is a simple ESP32 BLE demo program.
-
+Demonstration example of the Bluetooth Low Energy features of the ESP32
 
 To compile and run the code, you need to download an ESP32 arduino core and add it to your Arduino IDE.
 
