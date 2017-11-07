@@ -1,4 +1,16 @@
-Demonstration example of the Bluetooth Low Energy features of the ESP32
+Demonstration example of the Bluetooth Low Energy communication capability of the ESP32
+This demonstration includes a example android application and example firmware 
+
+Coding Development by: Yanjie (Richard) Xu
+
+Managed by: Dr. Michael Klopfer and Prof. G.P. Li
+
+California Plug Load Research Center (CalPlug), California Institute of Telecommunications and Information Technology (Calit2), University of California, Irvine
+
+Copyright (c) Regents of the University of California, 2017
+
+***************************************************************************
+***************************************************************************
 
 To compile and run the code, you need to download an ESP32 arduino core and add it to your Arduino IDE.
 
