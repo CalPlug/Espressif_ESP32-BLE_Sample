@@ -1,7 +1,7 @@
 Demonstration example of the Bluetooth Low Energy communication capability of the ESP32
 This demonstration includes a example android application and example firmware 
 
-NOTE:  The continuation for development of this project is now here: https://github.com/CalPlug/Espressif_ESP32-Scale
+NOTE:  This was a demo project to demonstrate basic connectivity.  The continuation for development of this project is now here: https://github.com/CalPlug/Espressif_ESP32-Scale
 
 Coding Development by: Yanjie (Richard) Xu
 
