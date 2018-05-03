@@ -26,3 +26,5 @@ Since the ESP32 has an inaccurate ADC, you may use lower resistance pull-up resi
 
 The Android BLE app is API23 (Android 6.0).
 
+Please see the continuation of this project:  https://github.com/CalPlug/Espressif_ESP32-Scale
+
